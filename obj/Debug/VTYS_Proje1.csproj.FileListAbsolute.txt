@@ -1,0 +1,16 @@
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\bin\Debug\VTYS_Proje1.exe.config
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\bin\Debug\VTYS_Proje1.exe
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\bin\Debug\VTYS_Proje1.pdb
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.csprojResolveAssemblyReference.cache
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.Ekle.resources
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.Form1.resources
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.Goruntule.resources
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.Guncelle.resources
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.islem_yap.resources
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.Properties.Resources.resources
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.Sil.resources
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.csproj.GenerateResource.Cache
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.csproj.CoreCompileInputs.cache
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.exe
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.pdb
+C:\Users\berkc\source\repos\VTYS_Proje1\VTYS_Proje1\obj\Debug\VTYS_Proje1.Hakkinda.resources
